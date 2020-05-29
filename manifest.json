@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+  
+    "name": "Boku No Hero Academia Spoilers",
+    "description": "Season 5 is coming and I will save you from spoilers",
+    "version": "1.0",
+    "icons": { 
+            "96": "MHA.png" },
+    "content_scripts": [
+      {
+        "matches": ["http://*/*", "https://*/*"],
+        "js": ["jquery-3.4.0.min.js", "saveMHA.js"],
+        "run_at": "document_end"
+      }
+    ]
+  }
+  
