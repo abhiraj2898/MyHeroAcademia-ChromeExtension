@@ -8,7 +8,7 @@ This Extension hides all the spoiler related stuff and images also<br/>
 This the first time I have tried to make an Extension and it turned out to be very easy and fun activity.<br/>
 
 ## Sample </br>
-<img src="sample.JPG" height="200" width="300">
+<img src="sample.JPG" height="500" width="450">
 
 ## Functionality
 - *Blocks Spoiler and replaces with a "OOPS Spoiler message"
