@@ -1,13 +1,13 @@
 # MyHeroAcademia-ChromeExtension
-Extension Handles MHA spoilers
+Extension Handles MHA spoilers</br>
 
-#:sparkles: My Hero Academima : Spoiler detector - Chrome Extension <img src="MHA.png" width="60"/><br/>
+# :sparkles: My Hero Academima : Spoiler detector - Chrome Extension <img src="MHA.png" width="70"/><br/>
 
 This Extension hides all the spoiler related stuff and images also<br/>
 
 This the first time I have tried to make an Extension and it turned out to be very easy and fun activity.<br/>
 
-##Sample 
+## Sample </br>
 <img src="sample.JPG">
 
 ## Functionality
